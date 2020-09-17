@@ -1,4 +1,4 @@
-**Tipe Data Number Di Go-Lang
+## Tipe Data Number Di Go-Lang
 
 di go-lang ada dua jenis tipe data number
 1. integer
